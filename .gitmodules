@@ -1,0 +1,3 @@
+[submodule "test-bundle-submodule"]
+	path = test-bundle-submodule
+	url = https://github.com/chris-sage/test-bundle-submodule.git
